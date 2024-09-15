@@ -1,7 +1,7 @@
 # Artificial intelligence specialist
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahabA83&show_icons=true&theme=transparent) <br>
 ## Skills
-<img src = "https://img.shields.io/badge/Python-f39f37" />
+<img src = "https://img.shields.io/badge/Python-f39f37">
 <img src = "https://img.shields.io/badge/Data analysis-f39f37" />
 <img src = "https://img.shields.io/badge/Data visualization-f39f37" />
 <img src = "https://img.shields.io/badge/Git-f39f37" />
